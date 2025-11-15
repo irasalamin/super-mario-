@@ -1,0 +1,51 @@
+<html>
+<head>
+        
+            <title>mario</title>
+            <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+        
+        
+        </header>
+        <nav>
+           <a class="nav-link" href="index.html"> Про Mаріо</a>
+ <a class="nav-link" href="about.html"> Факти </a>
+ <a class="nav-link" href="info.html"> Цікаве </a>
+
+        </nav>  
+        <main>
+            <section class="">
+        <h1> Факти </h1>
+        <img src="https://games.24tv.ua/resources/photos/news/202503/2771614.jpg?v=1741590518000"height= 300/>
+        <ol>
+            <li>У фільмі The Super Mario Bros. Movie (2023) Маріо озвучив Кріс Пратт.</li>
+
+<li>Його улюблена страва — піца (за неофіційними даними від Nintendo).</li>
+
+<li>У деяких іграх Маріо може ставати неуразливим завдяки зірці (Super Star).</li>
+
+<li>У серії Mario Kart він змагається з друзями у гоночних перегонах.</li>
+
+<li>У грі Dr. Mario він стає лікарем і бореться з вірусами.</li>
+
+<li>Маріо з’являвся у понад 200 відеоіграх.</li>
+
+<li>Його впізнають понад 90% гравців у світі — це більше, ніж деяких супергероїв Marvel!</li>
+
+<li>Звук, коли Маріо підстрибує, став одним із найвідоміших звуків у відеоіграх.</li>
+
+<li>У Японії його іноді називають 「マリオさん」 (Маріо-сан) — тобто «містер Маріо».</li>
+
+<li>У різних іграх він може ставати вогняним, кішкою, жабою, бджолою і навіть привидом.</li>
+
+<li>У 2018 році Nintendo офіційно заявила, що Маріо вже не працює сантехніком, але все одно залишається героєм!</li>
+</ol>
+<img src="https://media.tenor.com/xKJ0blGgIlQAAAAM/dance-happy.gif"/>
+        
+            </section>
+            
+        </main> 
+    </body>
+</html>
